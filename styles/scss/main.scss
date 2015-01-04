@@ -1,0 +1,182 @@
+$main-color: black;
+$main-color2: white;
+$main-font: 'courier_primeregular';
+
+
+/* BASE */ 
+
+
+body {
+	background: #283f79; /* Old browsers */
+background: -moz-linear-gradient(top,  #283f79 0%, #88516f 11%, #ed6f5e 24%, #ee864c 43%, #f4ba65 54%, #009db3 67%, #009db3 80%, #428a9d 91%, #00838f 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#283f79), color-stop(11%,#88516f), color-stop(24%,#ed6f5e), color-stop(43%,#ee864c), color-stop(54%,#f4ba65), color-stop(67%,#009db3), color-stop(80%,#009db3), color-stop(91%,#428a9d), color-stop(100%,#00838f)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #283f79 0%,#88516f 11%,#ed6f5e 24%,#ee864c 43%,#f4ba65 54%,#009db3 67%,#009db3 80%,#428a9d 91%,#00838f 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #283f79 0%,#88516f 11%,#ed6f5e 24%,#ee864c 43%,#f4ba65 54%,#009db3 67%,#009db3 80%,#428a9d 91%,#00838f 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #283f79 0%,#88516f 11%,#ed6f5e 24%,#ee864c 43%,#f4ba65 54%,#009db3 67%,#009db3 80%,#428a9d 91%,#00838f 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #283f79 0%,#88516f 11%,#ed6f5e 24%,#ee864c 43%,#f4ba65 54%,#009db3 67%,#009db3 80%,#428a9d 91%,#00838f 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#283f79', endColorstr='#00838f',GradientType=0 ); /* IE6-9 */
+;
+	background-repeat: no-repeat;
+	font-family:$main-font;
+	margin: auto;
+	padding: auto;
+}
+
+h1, h2, h3, h4, h5, h6 {
+	font-family:$main-font;
+}
+
+ul {
+	list-style: none;
+}
+
+nav ul li {
+	display: inline;
+}
+
+ul li {
+	display: inline;
+}
+
+/* unvisited link */
+a:link {
+    color: $main-color;
+	text-decoration: none;
+}
+
+/* visited link */
+a:visited {
+    color: $main-color;
+	text-decoration: none;
+}
+
+/* mouse over link */
+a:hover {
+    color: $main-color;
+	text-decoration: line-through;
+}
+
+/* selected link */
+a:active {
+    color: $main-color;
+	text-decoration: none;
+}
+
+
+/* LAYOUT */ 
+
+ .footer-li {
+	font-size: 1.5em;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+
+ .main-li {
+	background-color: $main-color2;
+	font-size: 2.5em;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-right: 5px;
+	padding-left: 5px;
+}
+
+.center-nav {
+	margin: auto;
+	text-align: center;
+	width:100%;
+	
+}
+
+.left-nav {
+	border-left: 5px solid $main-color;
+	border-bottom: 5px solid $main-color;
+}
+
+.right-nav {
+	border-right: 5px solid $main-color;
+	border-bottom: 5px solid $main-color;
+}
+
+/*tablet nav */
+.tablet-top-nav {
+	border-left: 5px solid $main-color;
+	border-top: 5px solid $main-color;
+}
+
+.tablet-right-nav {
+	border-right: 5px solid $main-color;
+	border-top: 5px solid $main-color;
+}
+
+.tablet-rightbottom-nav {
+	border-right: 5px solid $main-color;
+	border-bottom: 5px solid $main-color;
+}
+
+.social-buttons {
+	float: right;
+}
+
+.active {
+	text-decoration: line-through;
+}
+
+
+/* Video EMBed responsive code */
+
+.responsive-vid {
+position: relative;
+padding-bottom: 56.25%;
+padding-top: 60px; 
+overflow: hidden;
+}
+
+
+.responsive-vid iframe,
+.responsive-vid object,
+.responsive-vid embed {
+position: absolute;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+}
+
+/* END OF = Video EMBed responsive code */
+
+
+/* MODULE */ 
+/* STATE */ 
+/* THEME */ 
+
+
+/* FORM */
+input,textarea {
+	display:block;
+	margin-bottom: 15px;
+	width: 100%;
+	border: black solid 1px;
+}
+
+label {
+	margin-bottom: 0px;	
+}
+
+.error{
+	color:blue;
+}
+
+form{
+	width:100%;
+}
+
+
+/* Smartphones (portrait and landscape) ----------- */
+@media (min-width: 320px) and (max-width: 1400px) {
+  /* Styles */
+   .footer-li {
+		font-size: 1.5em;
+	}
+}
