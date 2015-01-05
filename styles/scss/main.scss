@@ -26,6 +26,10 @@ h1, h2, h3, h4, h5, h6 {
 	font-family:$main-font;
 }
 
+hr {
+	border-top: 5px solid black;
+}
+
 ul {
 	list-style: none;
 }
@@ -40,30 +44,35 @@ ul li {
 
 /* unvisited link */
 a:link {
-    color: $main-color;
 	text-decoration: none;
 }
 
 /* visited link */
 a:visited {
-    color: $main-color;
 	text-decoration: none;
 }
 
 /* mouse over link */
 a:hover {
-    color: $main-color;
 	text-decoration: line-through;
 }
 
 /* selected link */
 a:active {
-    color: $main-color;
 	text-decoration: none;
 }
 
 
 /* LAYOUT */ 
+
+.footer-li a {
+	color:black;	
+}
+
+.main-li a
+{
+	color:black;
+}
 
  .footer-li {
 	font-size: 1.5em;
@@ -71,6 +80,8 @@ a:active {
 	padding-bottom: 0px;
 	padding-right: 6px;
 	padding-left: 6px;
+	background-color: white;
+	 
 }
 
  .main-li {
@@ -84,6 +95,7 @@ a:active {
 
 .center-nav {
 	margin: auto;
+	padding: auto;
 	text-align: center;
 	width:100%;
 	
