@@ -93,6 +93,15 @@ a:active {
 	padding-left: 5px;
 }
 
+.main-nav {
+	background-color: $main-color;
+	color: $main-color2;
+	padding: 12px;
+	margin: 4px;
+	width: 100%;    /* 170px */
+	font-size: 1.2em;
+}
+
 .center-nav {
 	margin: auto;
 	padding: auto;
@@ -221,4 +230,3 @@ form{
 	border-bottom: 2px solid black;	
 }
 }
-
