@@ -59,6 +59,9 @@ a:active {
 .main-li a {
   color: black; }
 
+.mobile-footer-li a {
+  color: black; }
+
 .footer-li {
   font-size: 1.5em;
   padding-top: 4px;
@@ -66,6 +69,14 @@ a:active {
   padding-right: 6px;
   padding-left: 6px;
   background-color: white; }
+
+.mobile-footer-li {
+  font-size: 2em;
+  padding-top: 4px;
+  padding-bottom: 0px;
+  padding-right: 6px;
+  padding-left: 6px;
+  text-align: center; }
 
 .main-li {
   background-color: white;
