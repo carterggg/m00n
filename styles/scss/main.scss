@@ -34,13 +34,11 @@ ul {
 	list-style: none;
 }
 
-nav ul li {
-	display: inline;
-}
-
 ul li {
 	display: inline;
 }
+
+
 
 /* unvisited link */
 a:link {
@@ -88,12 +86,11 @@ a:active {
 }
 
 .mobile-footer-li {
-	font-size: 2em;
+	font-size: 1.7em;
 	padding-top: 4px;
 	padding-bottom: 0px;
 	padding-right: 6px;
 	padding-left: 6px;
-	text-align: center;
 }
 
  .main-li {
@@ -146,6 +143,10 @@ a:active {
 .tablet-rightbottom-nav {
 	border-right: 5px solid $main-color;
 	border-bottom: 5px solid $main-color;
+}
+
+.mobile-main-nav nav ul li {
+
 }
 
 .social-buttons {
