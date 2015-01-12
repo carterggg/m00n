@@ -5,7 +5,6 @@ $main-font: 'courier_primeregular';
 
 /* BASE */ 
 
-
 body {
 	background: #283f79; /* Old browsers */
 background: -moz-linear-gradient(top,  #283f79 0%, #88516f 11%, #ed6f5e 24%, #ee864c 43%, #f4ba65 54%, #009db3 67%, #009db3 80%, #428a9d 91%, #00838f 100%); /* FF3.6+ */
@@ -22,8 +21,12 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#283f79', end
 	padding: auto;
 }
 
-h1, h2, h3, h4, h5, h6 {
+p, h1, h2, h3, h4, h5, h6 {
 	font-family:$main-font;
+}
+
+p {
+	display: inline;
 }
 
 hr {
