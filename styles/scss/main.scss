@@ -69,10 +69,6 @@ a:active {
 	color:$main-color;
 }
 
-.mobile-footer-li a {
-	color:$main-color;
-}
-
  .footer-li {
 	font-size: 1.5em;
 	padding-top: 4px;
@@ -84,11 +80,27 @@ a:active {
 }
 
 .mobile-footer-li {
-	font-size: 1.7em;
+	font-size: 1.8em;
 	padding-top: 4px;
 	padding-bottom: 0px;
 	padding-right: 6px;
 	padding-left: 6px;
+}
+
+.mobile-footer-li a {
+	color:$main-color2;
+}
+
+.bottom-mobile-nav {
+	font-size: 1.3em;
+	padding-top: 4px;
+	padding-bottom: 0px;
+	padding-right: 6px;
+	padding-left: 6px;
+}
+
+.bottom-mobile-nav a {
+	color:$main-color2;
 }
 
  .main-li {
@@ -113,8 +125,7 @@ a:active {
 	margin: auto;
 	padding: auto;
 	text-align: center;
-	width:100%;
-	
+	width: 100%;
 }
 
 .left-nav {
@@ -134,8 +145,10 @@ a:active {
 	padding-bottom: 5px;
 	padding-right: 5px;
 	padding-left: 15px;
-	margin:5px;
-	
+	margin: 7px;
+	border-bottom: 5px solid $main-color;
+	border-right: 5px solid $main-color;
+	width: 100%;
 }
 
 .mobile-nav ul li a {
@@ -162,8 +175,6 @@ a:active {
 .social-buttons {
 	float: right;
 }
-
-
 
 .active {
 	text-decoration: line-through;
