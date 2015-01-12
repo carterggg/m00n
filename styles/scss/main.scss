@@ -38,8 +38,6 @@ ul li {
 	display: inline;
 }
 
-
-
 /* unvisited link */
 a:link {
 	text-decoration: none;
@@ -129,6 +127,22 @@ a:active {
 	border-bottom: 5px solid $main-color;
 }
 
+.mobile-nav ul li {
+	display: block;
+	background-color:$main-color2;
+	padding-top: 10px;
+	padding-bottom: 5px;
+	padding-right: 5px;
+	padding-left: 15px;
+	margin:5px;
+	
+}
+
+.mobile-nav ul li a {
+	color:$main-color;
+	font-size: 1.6em;
+}
+
 /*tablet nav */
 .tablet-top-nav {
 	border-left: 5px solid $main-color;
@@ -143,10 +157,6 @@ a:active {
 .tablet-rightbottom-nav {
 	border-right: 5px solid $main-color;
 	border-bottom: 5px solid $main-color;
-}
-
-.mobile-main-nav nav ul li {
-
 }
 
 .social-buttons {
