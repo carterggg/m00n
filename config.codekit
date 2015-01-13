@@ -40,6 +40,61 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/fb2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 721,
+		"inputAbbreviatedPath": "\/images\/fb2.png",
+		"outputAbbreviatedPath": "\/images\/fb2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/fb3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 732,
+		"inputAbbreviatedPath": "\/images\/fb3.png",
+		"outputAbbreviatedPath": "\/images\/fb3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/highgradetitle.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49672,
+		"inputAbbreviatedPath": "\/images\/highgradetitle.png",
+		"outputAbbreviatedPath": "\/images\/highgradetitle.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/highgradetitle2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/highgradetitle2.png",
+		"outputAbbreviatedPath": "\/images\/highgradetitle2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/highgradetitle3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/images\/highgradetitle3.png",
+		"outputAbbreviatedPath": "\/images\/highgradetitle3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/ig.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -47,6 +102,17 @@
 		"initialSize": 2596,
 		"inputAbbreviatedPath": "\/images\/ig.jpg",
 		"outputAbbreviatedPath": "\/images\/ig.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/ig2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2140,
+		"inputAbbreviatedPath": "\/images\/ig2.png",
+		"outputAbbreviatedPath": "\/images\/ig2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -73,6 +139,28 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/menu-icon.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 304,
+		"inputAbbreviatedPath": "\/images\/menu-icon.png",
+		"outputAbbreviatedPath": "\/images\/menu-icon.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/menu-icon2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 322,
+		"inputAbbreviatedPath": "\/images\/menu-icon2.png",
+		"outputAbbreviatedPath": "\/images\/menu-icon2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/shirts\/black-back.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -80,6 +168,17 @@
 		"initialSize": 23777,
 		"inputAbbreviatedPath": "\/images\/shirts\/black-back.jpg",
 		"outputAbbreviatedPath": "\/images\/shirts\/black-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/grey-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 30329,
+		"inputAbbreviatedPath": "\/images\/shirts\/grey-back.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/grey-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -117,17 +216,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/shirts\/m00n-doodleleaf.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 34187,
-		"inputAbbreviatedPath": "\/images\/shirts\/m00n-doodleleaf.jpg",
-		"outputAbbreviatedPath": "\/images\/shirts\/m00n-doodleleaf.jpg",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"processed": 0
-		},
 	"\/images\/shirts\/m00n-firetruck.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -146,6 +234,61 @@
 		"initialSize": 44913,
 		"inputAbbreviatedPath": "\/images\/shirts\/m00n-horizon.jpg",
 		"outputAbbreviatedPath": "\/images\/shirts\/m00n-horizon.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/m00n-logo-front.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38051,
+		"inputAbbreviatedPath": "\/images\/shirts\/m00n-logo-front.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/m00n-logo-front.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/m00n-logo-grey.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 40212,
+		"inputAbbreviatedPath": "\/images\/shirts\/m00n-logo-grey.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/m00n-logo-grey.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/m00n-logo-orange.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 48056,
+		"inputAbbreviatedPath": "\/images\/shirts\/m00n-logo-orange.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/m00n-logo-orange.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/m00n-logo-ranger.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45314,
+		"inputAbbreviatedPath": "\/images\/shirts\/m00n-logo-ranger.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/m00n-logo-ranger.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/orange-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 35405,
+		"inputAbbreviatedPath": "\/images\/shirts\/orange-back.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/orange-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -172,13 +315,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/images\/teststar.png": {
-		"fileType": 32768,
+	"\/images\/shirts\/white-ranger-back.jpg": {
+		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 4156,
-		"inputAbbreviatedPath": "\/images\/teststar.png",
-		"outputAbbreviatedPath": "\/images\/teststar.png",
+		"initialSize": 36374,
+		"inputAbbreviatedPath": "\/images\/shirts\/white-ranger-back.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/white-ranger-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0

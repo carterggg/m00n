@@ -147,6 +147,10 @@ a:active {
   border-right: 5px solid black;
   border-bottom: 5px solid black; }
 
+.h1-title-style {
+  border-bottom: 5px solid black;
+  color: black; }
+
 .social-buttons {
   float: right; }
 
