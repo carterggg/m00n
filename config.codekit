@@ -172,6 +172,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/shirts\/green-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 63990,
+		"inputAbbreviatedPath": "\/images\/shirts\/green-back.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/green-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/shirts\/grey-back.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -249,6 +260,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/shirts\/m00n-logo-green.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 82550,
+		"inputAbbreviatedPath": "\/images\/shirts\/m00n-logo-green.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/m00n-logo-green.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/shirts\/m00n-logo-grey.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -282,6 +304,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/images\/shirts\/m00n-logo-red.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 83282,
+		"inputAbbreviatedPath": "\/images\/shirts\/m00n-logo-red.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/m00n-logo-red.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/images\/shirts\/orange-back.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -289,6 +322,17 @@
 		"initialSize": 35405,
 		"inputAbbreviatedPath": "\/images\/shirts\/orange-back.jpg",
 		"outputAbbreviatedPath": "\/images\/shirts\/orange-back.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/images\/shirts\/red-back.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 64639,
+		"inputAbbreviatedPath": "\/images\/shirts\/red-back.jpg",
+		"outputAbbreviatedPath": "\/images\/shirts\/red-back.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
