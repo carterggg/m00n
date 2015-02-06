@@ -60,12 +60,17 @@ a:active {
   color: black; }
 
 .footer-li {
-  font-size: 1.5em;
+  font-size: 1.5vw;
   padding-top: 4px;
   padding-bottom: 0px;
   padding-right: 6px;
   padding-left: 6px;
   background-color: white; }
+
+.footer-center {
+  text-align: center;
+  margin: auto;
+  margin-right: 40px; }
 
 .mobile-footer-li {
   font-size: 1.8em;
@@ -103,12 +108,6 @@ a:active {
   width: 100%;
   /* 170px */
   font-size: 1.2em; }
-
-.center-nav {
-  margin: auto;
-  padding: auto;
-  text-align: center;
-  width: 100%; }
 
 .left-nav {
   border-left: 5px solid black;
@@ -157,6 +156,15 @@ a:active {
 .active {
   text-decoration: line-through; }
 
+.main-nav-shift ul {
+  margin-right: 40px; }
+
+.center-nav {
+  margin: auto;
+  padding: auto;
+  text-align: center;
+  width: 100%; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
@@ -192,26 +200,3 @@ label {
 
 form {
   width: 100%; }
-
-/* Media Queiers ----------- */
-@media (min-width: 1242px) and (max-width: 1340px) {
-  /* Styles */
-  .footer-li {
-    font-size: 1.4em; } }
-@media (min-width: 1070px) and (max-width: 1241px) {
-  /* Styles */
-  .footer-li {
-    font-size: 1.3em; } }
-@media (min-width: 900px) and (max-width: 1070px) {
-  /* Styles */
-  .footer-li {
-    font-size: .5em; } }
-@media (min-width: 0px) and (max-width: 768px) {
-  /* Styles */
-  .footer-li {
-    font-size: 1.1em;
-    padding: 10px; }
-
-  .footer-title {
-    font-size: 1.5em;
-    border-bottom: 2px solid black; } }
