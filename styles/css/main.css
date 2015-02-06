@@ -171,6 +171,29 @@ a:active {
   border-bottom: 5px solid black;
   font-size: 4.2vw; }
 
+.l00kb00k-nav-style {
+  background-color: white;
+  border-left: 8px solid black;
+  border-top: 8px solid black;
+  border-bottom: 8px solid black;
+  color: black; }
+
+.l00kb00k-nav-style h1 {
+  margin-left: 25px;
+  margin-bottom: 15px;
+  font-size: 2.5vw; }
+
+.l00kb00k-nav-style nav ul li {
+  border: 5px solid black;
+  padding-top: 11px;
+  padding-bottom: 2px;
+  padding-left: 10px;
+  padding-right: 7px; }
+
+.l00kb00k-nav-style nav ul li a {
+  color: black;
+  font-size: 1.7vw; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
