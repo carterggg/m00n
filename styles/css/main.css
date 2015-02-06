@@ -165,6 +165,12 @@ a:active {
   text-align: center;
   width: 100%; }
 
+.top-layout-style {
+  color: white;
+  text-align: center;
+  border-bottom: 5px solid black;
+  font-size: 4.2vw; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
