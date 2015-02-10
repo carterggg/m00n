@@ -47,7 +47,8 @@ a:visited {
 
 /* mouse over link */
 a:hover {
-  text-decoration: line-through; }
+  text-decoration: line-through;
+  color: black; }
 
 /* selected link */
 a:active {
@@ -195,6 +196,9 @@ a:active {
   color: black;
   font-size: 1.7vw; }
 
+.align-center {
+  margin: auto; }
+
 /* STYLES FOR PRODUCT STORE */
 .product-h1 {
   background-color: white;
@@ -216,6 +220,11 @@ a:active {
 .product-info-style {
   border-bottom: 5px solid black;
   text-align: center; }
+
+.other-product-style {
+  border-bottom: 5px solid black;
+  text-align: center;
+  margin-bottom: 17px; }
 
 .info-style {
   background-color: white;
