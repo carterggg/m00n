@@ -236,7 +236,11 @@ a:active {
   color: white; }
 
 .bottom-product-style {
-  margin-top: 13px; }
+  margin-top: 10px; }
+
+.product-border {
+  background-color: white;
+  border: 5px solid black; }
 
 /* Video EMBed responsive code */
 .responsive-vid {

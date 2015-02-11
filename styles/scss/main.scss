@@ -59,7 +59,7 @@ a:hover {
 }
 
 /* selected link */
-a:active {
+a:active { 
 	text-decoration: none;
 }
 
@@ -287,7 +287,12 @@ a:active {
 }
 
 .bottom-product-style {
-	margin-top: 13px;
+	margin-top: 10px;
+}
+
+.product-border {
+	background-color: $main-color2;
+	border: 5px solid $main-color;
 }
 
 
