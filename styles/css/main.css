@@ -235,6 +235,9 @@ a:active {
   background-color: black;
   color: white; }
 
+.bottom-product-style {
+  margin-top: 13px; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
