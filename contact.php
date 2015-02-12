@@ -1,34 +1,26 @@
 <?php
 	
 	// * IMPORTANT * Set your email information here
-	define('DESTINATION_EMAIL','nothingextravagant@gmail.com');
-	define('MESSAGE_SUBJECT','Nothing Extravagant Subject');
-	define('REPLY_TO', 'nothingextravagant@gmail.com');
-	define('FROM_ADDRESS', 'nothingextravagant@gmail.com');
+	define('DESTINATION_EMAIL','mzerozeron@gmail.com');
+	define('MESSAGE_SUBJECT','m00n Clothing Subject');
+	define('REPLY_TO', 'mzerozeron@gmail.com');
+	define('FROM_ADDRESS', 'mzerozeron@gmail.com');
 	define('REDIRECT_URL', 'index.php');
 	
 	require_once('validation.php');
 
 ?>
 
-
 <!doctype html>
 <html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-<title>nothing extravagant</title>
+<title>m00n</title>
 <link rel="stylesheet" href="styles/css/bootstrap.min.css">
 <link rel="stylesheet" href="styles/css/bootstrap-theme.min.css">
 <link rel="stylesheet" href="styles/css/main.css">
 <link rel="stylesheet" href="stylesheet.css" type="text/css" charset="utf-8" />
-<!-- FORM links -->
-<link rel="shortcut icon" href="../../assets/ico/favicon.png">
-<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" >
-<link rel="stylesheet" href="assets/vender/intl-tel-input/css/intlTelInput.css">
-<!-- END OF FORM links -->
-
-
 
 </head>
 
@@ -38,139 +30,179 @@
 <div class="container-fluid">
 
 <!-- First row -->
-<!-- Header Logo -->
 	<div class="row">
-			<div class="hidden-xs col-sm-4"></div>
-		<div class="hidden-xs col-sm-4">
-			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-logo" alt="nothing extravagant"></a>
-		</div><!-- END OF column -->
-		
-			<div class="hidden-xs col-sm-4"></div>
-		
-	</div><!-- END OF row -->
+		<div class="col-xs-12">
+			<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs hidden-sm hidden-md"><br class="hidden-xs hidden-sm hidden-md"><br>
+		</div> <!-- END OF col-->	
+	</div> <!-- END OF row -->	
 	
-<!-- Mobile Nav Bar -->
-					
-			<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-			<br>
-			<img src="images/menu-icon.png" width="50px" align="right" class="toggle-nav" alt="nothing extravagant menu"> 
-				<nav class="mobile-nav toggle-info">
-				<ul> <br><br><br>
-				 	<?php include('inc/mobilenav.inc.php'); ?>
-				</ul>
-			</nav>
-			
-			
-		</div><!-- END OF column -->
-		
-<!-- END OF Mobile Nav Bar -->	
-	
-<!-- MOBILE LOGO -->
+<!-- Second row -->
+
+<!-- Desktop Nav Bar -->	
 	<div class="row">
-		<div class="hidden-sm hidden-md hidden-lg col-xs-12">
-		<br>
-			<a href="index.php"><img src="images/logo/ne-logo-02.png" class="img-responsive main-photo" alt="nothing extravagant"></a>
-			<br>
-		</div><!-- END OF column -->
-	</div><!-- END OF row -->
-<!--END OF MOBILE LOGO -->
-
-	
-<!-- Second row -->	
-
-	<div class="row">
-
-		<div class="hidden-xs col-sm-2">
-<!-- Tablet/Desktop Nav Bar -->		
-			
-			<nav class="fixed-nav">
+	  
+		<div class="hidden-xs col-sm-12 center-nav">
+			<nav class="main-nav-shift">
 				<ul>
 				 	<?php include('inc/mainnav.inc.php'); ?>
 				</ul>
-			</nav>
-			
-			
-<!-- END OF Tablet/Desktop Nav Bar -->				
-		</div><!-- END OF column -->
-			
-
-
-<!-- Contact Toggle Info for Mobile -->
-	
-		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-				<br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs">
-			<h4 class="toggle underlined">EMAIL +</h4>
-				<p>nothingextravagant@gmail.com</p>
-				
-			<h4 class="toggle underlined">INSTAGRAM +</h4>
-				<a href="http://instagram.com/Nothingextravagant">@nothingextravagant</a>
-				
-			<h4 class="toggle underlined">FACEB00K +</h4>
-				<a href="https://www.facebook.com/pages/Nothing-Extravagant/718067788289517">www.facebook.com/pages/Nothing-Extravagant/718067788289517</a>
-				</div><!-- END OF column -->
-						
-<!-- END OF Contact Toggle Info for Mobile -->	
-
-
-<!-- Main Content Column -->		
-			<div class="col-xs-12 col-sm-6">
-				<br>
-				
-				<h1 class="underlined">C0NTACT NE</h1>
-				<p><i>Random Questions? Wholesale? Design Ideas? Collabs? Returns?</i></p>
-				<br>
-				
-
-			<?php include('inc/form.php'); ?>
-			
-			<br><br><br>
-				
-				
-				
-				
-			</div> <!-- column size ender -->
-<!-- END OF Main Content Column -->		
+			</nav>	
+		</div>
 		
-			<div class="hidden-xs col-sm-4">
-				<br><br><br><br>
-				<h4 class="toggle underlined">EMAIL +</h4>
-				<p class="toggle-info">nothingextravagant@gmail.com</p>
-				
-				<h4 class="toggle underlined">INSTAGRAM +</h4>
-				<a href="http://instagram.com/Nothingextravagant" class="toggle-info">@nothingextravagant</a>
-				
-				<h4 class="toggle underlined">FACEBOOK +</h4>
-				<a href="https://www.facebook.com/pages/Nothing-Extravagant/718067788289517" class="toggle-info">www.facebook.com/pages/Nothing-Extravagant/718067788289517</a>
-				
-</div><!-- END OF column -->
-	</div><!-- END OF row -->
+	</div>
+   <br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs"><br class="hidden-xs hidden-sm hidden-md"><br class="hidden-xs hidden-sm hidden-md"><br class="hidden-xs hidden-sm hidden-md">
+   
+   <!-- Mobile Nav Bar -->
+   <div class="row">
+   		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+  	  			<img src="images/menu-icon2.png" onmouseover="this.src='images/menu-icon.png'" onmouseout="this.src='images/menu-icon2.png'" class="toggle" width="55px" align="right">
+  	  	
+   			<nav class="mobile-nav">
+   				<ul> <br><br><br>
+   					<?php include('inc/mobilenav.inc.php'); ?>
+   				</ul>
+   			</nav>
+   			
+   						<a href="index.html" alt="m00n clothing"><img src="images/logo/logo.png" alt="m00n" class="img-responsive"></a>
+   							<br class="hidden-sm hidden-md hidden-lg">
+   		</div>
+   </div>
+   
+  <!-- Top layout piece -->
 	
-			
+	<div class="row hidden-xs">
+		<div class="col-xs-1"></div>
+			<div class="col-xs-10">
+				<!--
+					<img src="images/highgrade-desktop-bottom.png" alt="m00n high grade hand pressed clothing" class="img-responsive">	
+					-->
+				<h1 class="top-layout-style">HIGHGRADE HANDPRESSED CLOTHING</h1>
+					<br>
+			</div>
+		<div class="col-xs-1"></div>
+	</div> 
+   
+ <!-- Third row (Mobile) -->
+ 	<div class="row">
+   
+   		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
+   				
+   			<img src="images/highgradetitle.png" alt="m00n,high grade hand pressed clothing" width="150%" class="img-responsive">
+   				<br>
+   		</div>
+   	
+   </div>
+   
+<!-- Fourth row -->		
+	<div class="row">
+		<div class="col-sm-1 hidden-xs"></div>
+			<div class="col-sm-2 hidden-xs"></div>
+				<div class="col-sm-6 col-xs-12">
+					<br class="hidden-sm hidden-md hidden-lg">
+					<h1 class="product-h1">CONTACT</h1>
+					<br class="hidden-xs">
+				</div>
+			<div class="col-sm-2 hidden-xs"></div>
+		<div class="col-sm-1 hidden-xs"></div>
+	</div>
 	
-<!-- Mobile Footer row -->
+	<!-- Email row 
 	
 	<div class="row">
-		<div class="hidden-sm hidden-md hidden-lg col-xs-12">
-			<hr>
-			<p class="align-center"><strong>Nothing Extravagant 2014 ©</strong></p>
-			<br>
-		</div><!-- END OF column -->
-	</div><!-- END OF row -->
+		<div class="col-sm-1 hidden-xs"></div>
+		<div class="col-sm-3 hidden-xs"></div>
+			<div class="col-xs-12 col-sm-4">
+			<h1 class="email-style">mZEROZEROn@gmail.com</h1>
+			</div>
+		<div class="col-sm-3 hidden-xs"></div>
+		<div class="col-sm-1 hidden-xs"></div>
+	</div>
+	-->
+	
+<!--Contact Info -->
+	<div class="row">
+		<div class="hidden-xs col-sm-1"></div>
+			<div class="hidden-xs col-sm-1"></div>
+				<div class="col-xs-12 col-sm-8">
+					
+					  <br>
+						<!--- contact form -->
+						<?php include('inc/form.php'); ?>
+				
+				</div>
+			<div class="hidden-xs col-sm-1"></div>
+		<div class="hidden-xs col-sm-1"></div>
+	</div>
+	<br>
+	
+<!-- HR Row -->
+	
+	<div class="row">
+  		<div class=" hidden-xs col-sm-1"></div>
+			<div class=" col-xs-12 col-sm-10">
+		  <br class="hidden-sm hidden-md hidden-lg">
+		  
+			  <img src="images/highgradefooter.png" alt="m00n high grade hand pressed clothing" class="img-responsive hidden-sm hidden-md hidden-lg">	
+			  <hr class="hidden-sm hidden-md hidden-lg">
+				
+			</div>
+  		<div class="hidden-xs col-sm-1"></div>
+	
+	</div>
+	
+<!-- Footer layout piece -->
+	
+	<div class="row hidden-xs">
+		<div class="col-xs-1"></div>
+			<div class="col-xs-10">
+				<br>
+					<img src="images/highgrade-desktop-middle.png" alt="m00n high grade hand pressed clothing" class="img-responsive">
+						<hr>
+			</div>
+		<div class="col-xs-1"></div>
+	</div>
 
+<!-- Footer Nav Row -->
+
+	<div class="row">
+	  <div class="hidden-xs col-sm-1"></div>
+	   <div class="hidden-xs col-sm-10">
+   			<nav class="footer-center">
+	   			<ul>
+	   				<li class="footer-li"><a href="index.html">m00n CLOTHING © 2015</a></li>
+	   				<li class="footer-li"><a href="">FACEBOOK</a></li>
+	   				<li class="footer-li"><a href="http://instagram.com/m00nclothing">INSTAGRAM</a></li>
+	   				<li class="footer-li"><a href="about.html">ABOUT</a></li>
+	   				<li class="footer-li"><a href="contact.html">CONTACT</a></li>
+	   				<li class="footer-li"><a href="http://m00n.bigcartel.com/" target="_blank">STORE</a></li>
+	   			</ul>
+		   </nav>
+		</div>
+	 <div class="hidden-xs col-sm-1"></div>		
+<!-- Mobile Footer Nav -->
+		
+		<div class="col-xs-12 hidden-sm hidden-md hidden-lg center-nav">
+			<p class="mobile-footer-li"><a href="index.html">m00n © 2015</a></p>
+   		<br>
+	   		<p class="bottom-mobile-nav"><a href="about.html">ABOUT</a></p>
+	   		<P class="bottom-mobile-nav"><a href="contact.html">CONTACT</a></P>
+	   		<P class="bottom-mobile-nav"><a href="http://m00n.bigcartel.com/">STORE</a></P>
+	   	<br><br>
+	   			<a href="#"><img src="images/fb2.png"  onmouseover="this.src='images/fb3.png'" onmouseout="this.src='images/fb2.png'"  alt="facebook m00n" width="13%"></a>
+				<a href="http://instagram.com/m00nclothing"><img src="images/ig.jpg" onmouseover="this.src='images/ig2.png'" onmouseout="this.src='images/ig.jpg'"  alt="instagram m00n" width="13%"></a>
+	   	<br><br>
+		</div>
+						
+	  <div class="hidden-xs col-sm-1"></div>
+	</div>
 
 </div><!-- END OF Container-Fluid -->
 <!-- END OF Website content -->
 
 <!-- jQuery -->
-   
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script> 
 <script src="js/main.js"></script>
-<script>
-      $(document).foundation();
-</script>
 <script src="js/bootstrap.min.js"></script>
-<script src="assets/vender/intl-tel-input/js/intlTelInput.min.js"></script>
-<script src="assets/js/contact-form.js"></script>
     
     
 </body>
