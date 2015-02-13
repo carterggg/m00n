@@ -31,11 +31,7 @@
 		<div class="hidden-xs col-sm-12 center-nav">
 			<nav class="main-nav-shift">
 				<ul>
-				 	<li class="left-nav main-li"><a href="index.html">HOME</a></li>
-					<li class="left-nav main-li"><a href="lookbook.html">L00KB00K</a></li>
-						<a href="index.html" title="m00n highgrade handpressed clothing"><img src="images/logo/logo2.png" alt="m00n" width="44%"></a>		
-					<li class="right-nav main-li"><a href="contact.html">CONTACT</a></li>	
-					<li class="right-nav main-li"><a href="highgradestore.html">STORE</a></li>
+				 	<?php include('inc/mainnav.inc.php'); ?>
 				</ul>
 			</nav>	
 		</div>
@@ -50,11 +46,7 @@
   	  	
    			<nav class="mobile-nav">
    				<ul> <br><br><br>
-   					<li class="mobile-main-nav"><a href="index.html">HOME</a></li>
-   					<li class="mobile-main-nav"><a href="lookbook.html">L00KB00K</a></li>
-   					<li class="mobile-main-nav"><a href="about.html">ABOUT</a></li>
-   					<li class="mobile-main-nav"><a href="contact.html">CONTACT</a></li>
-   					<li class="mobile-main-nav"><a href="http://m00n.bigcartel.com/">STORE</a></li>
+   					<?php include('inc/mobilenav.inc.php'); ?>
    				</ul>
    			</nav>
    			
