@@ -215,12 +215,7 @@
 	   <div class="hidden-xs col-sm-10">
    			<nav class="footer-center">
 	   			<ul>
-	   				<li class="footer-li"><a href="index.html">m00n CLOTHING © 2015</a></li>
-	   				<li class="footer-li"><a href="">FACEBOOK</a></li>
-	   				<li class="footer-li"><a href="http://instagram.com/m00nclothing">INSTAGRAM</a></li>
-	   				<li class="footer-li"><a href="about.html">ABOUT</a></li>
-	   				<li class="footer-li"><a href="contact.html">CONTACT</a></li>
-	   				<li class="footer-li"><a href="http://m00n.bigcartel.com/" target="_blank">STORE</a></li>
+	   				<?php include('inc/footernav.inc.php'); ?>
 	   			</ul>
 		   </nav>
 		</div>
@@ -228,15 +223,7 @@
 <!-- Mobile Footer Nav -->
 		
 		<div class="col-xs-12 hidden-sm hidden-md hidden-lg center-nav">
-			<p class="mobile-footer-li"><a href="index.html">m00n © 2015</a></p>
-   		<br>
-	   		<p class="bottom-mobile-nav"><a href="about.html">ABOUT</a></p>
-	   		<P class="bottom-mobile-nav"><a href="contact.html">CONTACT</a></P>
-	   		<P class="bottom-mobile-nav"><a href="http://m00n.bigcartel.com/">STORE</a></P>
-	   	<br><br>
-	   			<a href="#"><img src="images/fb2.png"  onmouseover="this.src='images/fb3.png'" onmouseout="this.src='images/fb2.png'"  alt="facebook m00n" width="13%"></a>
-				<a href="http://instagram.com/m00nclothing"><img src="images/ig.jpg" onmouseover="this.src='images/ig2.png'" onmouseout="this.src='images/ig.jpg'"  alt="instagram m00n" width="13%"></a>
-	   	<br><br>
+			<?php include('inc/mobilefooternav.inc.php'); ?>
 		</div>
 						
 	  <div class="hidden-xs col-sm-1"></div>
