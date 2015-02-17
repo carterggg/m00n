@@ -214,6 +214,11 @@ a:active {
 	padding-bottom: 5px;
 }
 */
+.top-product-style {
+  color: white;
+  text-align: center;
+  font-size: 4.2vw; }
+
 /* STYLES FOR PRODUCT STORE */
 .product-h1 {
   background-color: white;

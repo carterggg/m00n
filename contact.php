@@ -106,18 +106,6 @@
 		<div class="col-sm-1 hidden-xs"></div>
 	</div>
 	
-	<!-- Email row 
-	
-	<div class="row">
-		<div class="col-sm-1 hidden-xs"></div>
-		<div class="col-sm-3 hidden-xs"></div>
-			<div class="col-xs-12 col-sm-4">
-			<h1 class="email-style">mZEROZEROn@gmail.com</h1>
-			</div>
-		<div class="col-sm-3 hidden-xs"></div>
-		<div class="col-sm-1 hidden-xs"></div>
-	</div>
-	-->
 	
 <!--Contact Info -->
 	<div class="row">
