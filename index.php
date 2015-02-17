@@ -163,7 +163,7 @@
 		
 		<div class="col-xs-6 col-sm-2">
 		  <br>
-			<a href="http://m00n.bigcartel.com/product/5" title="m00n"><img src="images/shirts/11/nightwizard-front.jpg" onmouseover="this.src='images/shirts/11/nightwizard-back.jpg'" onmouseout="this.src='images/shirts/11/nightwizard-front.jpg'"  alt="m00n clothing shirt" class="img-responsive product-border"></a>
+			<a href="highgrade-wizard.php" title="m00n"><img src="images/shirts/11/nightwizard-front.jpg" onmouseover="this.src='images/shirts/11/nightwizard-back.jpg'" onmouseout="this.src='images/shirts/11/nightwizard-front.jpg'"  alt="m00n clothing shirt" class="img-responsive product-border"></a>
 				<br class="hidden-sm hidden-md hidden-lg">
 		</div>
 		
