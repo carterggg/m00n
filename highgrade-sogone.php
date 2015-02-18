@@ -81,7 +81,7 @@
    </div>
    
 <!-- Fourth row -->		
-	<?php include('content/product/nightwizard.inc.php'); ?>
+	<?php include('content/product/sogone.inc.php'); ?>
 
 <!-- HR Row -->
 	
