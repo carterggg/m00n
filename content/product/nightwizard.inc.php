@@ -37,6 +37,8 @@
 					<h1 class="product-h1">NIGHT WIZARD TEE</h1>
 						<br>
 						<img src="images/shirts/11/nightwizard-front.jpg" onmouseover="this.src='images/shirts/11/nightwizard-back.jpg'" onmouseout="this.src='images/shirts/11/nightwizard-front.jpg'" alt="m00n highgrade handpressed clothing" class="img-responsive">
+						<br class="hidden-sm hidden-md hidden-lg">
+						<img src="images/shirts/11/nightwizard-back.jpg" alt="m00n highgrade handpressed clothing" class="img-responsive align-center hidden-sm hidden-md hidden-lg">
 				</div>
 				
 				<div class="col-xs-12 col-sm-3">

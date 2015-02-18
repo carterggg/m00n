@@ -37,6 +37,8 @@
 					<h1 class="product-h1">ONLY PM</h1>
 						<br>
 						<img src="images/shirts/7/onlypm-front.jpg" onmouseover="this.src='images/shirts/7/onlypm-back.jpg'" onmouseout="this.src='images/shirts/7/onlypm-front.jpg'" alt="m00n highgrade handpressed clothing" class="img-responsive">
+						<br class="hidden-sm hidden-md hidden-lg">
+						<img src="images/shirts/7/onlypm-back.jpg" alt="m00n highgrade handpressed clothing" class="img-responsive align-center hidden-sm hidden-md hidden-lg">
 				</div>
 				
 				<div class="col-xs-12 col-sm-3">

@@ -37,6 +37,8 @@
 					<h1 class="product-h1">VIBEBOX LTD</h1>
 						<br>
 						<img src="images/shirts/8/vibe-box-front.jpg" onmouseover="this.src='images/shirts/8/vibebox-m00nlogo-right.jpg'" onmouseout="this.src='images/shirts/8/vibe-box-front.jpg'" alt="m00n highgrade handpressed clothing" class="img-responsive">
+						<br class="hidden-sm hidden-md hidden-lg">
+						<img src="images/shirts/8/vibebox-m00nlogo-right.jpg" alt="m00n highgrade handpressed clothing" class="img-responsive align-center hidden-sm hidden-md hidden-lg">
 				</div>
 				
 				<div class="col-xs-12 col-sm-3">
