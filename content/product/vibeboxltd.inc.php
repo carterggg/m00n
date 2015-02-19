@@ -52,13 +52,13 @@
 			<div class="row">
 				<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
 				<br><br>
-					<img src="images/shirts/8/line1-m00n32-32.png" alt="m00n highgrade handpressed clothing" class="img-responsive align-center">
+					<img src="images/shirts/8/stereo-vibebox.png" alt="m00n highgrade handpressed clothing" class="img-responsive align-center">
 				</div>
 			</div>
 									
 					<a href="http://m00n.bigcartel.com/product/5" title="m00n highgrade handpressed clothing" target="_blank"><h1 class="buy-h1">BUY!</h1></a>
 									
-										<img src="images/shirts/8/line1-m00n32-32g" alt="m00n highgrade handpressed clothing" class="img-responsive align-center hidden-xs">
+										<img src="images/shirts/8/stereo-vibebox.png" alt="m00n highgrade handpressed clothing" class="img-responsive align-center hidden-xs">
 				</div>
 		<div class="col-sm-1 hidden-xs"></div>
 	</div>

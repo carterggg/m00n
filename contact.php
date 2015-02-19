@@ -88,7 +88,7 @@
    		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
    				
    			<img src="images/highgradetitle.png" alt="m00n,high grade hand pressed clothing" width="150%" class="img-responsive">
-   				<br>
+   				
    		</div>
    	
    </div>
@@ -99,7 +99,7 @@
 			<div class="col-sm-2 hidden-xs"></div>
 				<div class="col-sm-6 col-xs-12">
 					<br class="hidden-sm hidden-md hidden-lg">
-					<h1 class="product-h1">CONTACT</h1>
+					<h1 class="product-h1">MAKE CONTACT</h1>
 					<br class="hidden-xs">
 				</div>
 			<div class="col-sm-2 hidden-xs"></div>
@@ -112,6 +112,19 @@
 		<div class="hidden-xs col-sm-1"></div>
 			<div class="hidden-xs col-sm-1"></div>
 				<div class="col-xs-12 col-sm-8">
+				<div class="row align-center">
+			<div class="hidden-xs col-sm-4">
+			<br><br><br><br><br>
+				<img src="images/fb4.png" onmouseover="this.src='images/fb5.png'" onmouseout="this.src='images/fb4.png'" alt="m00n clothing" class="img-responsive align-center">
+			</div>
+			<div class="hidden-xs col-sm-4">
+				<img src="images/contact-m00n.png" alt="m00n clothing" class="img-responsive align-center">
+			</div>
+			<div class="hidden-xs col-sm-4">
+			<br><br><br><br><br>
+				<img src="images/ig3.png" onmouseover="this.src='images/ig4.png'" onmouseout="this.src='images/ig3.png'" alt="m00n clothing" class="img-responsive align-center">
+			</div>
+		</div>
 					
 					  <br>
 						<!--- contact form -->

@@ -262,6 +262,11 @@ a:active {
   background-color: white;
   border: 5px solid black; }
 
+/* Contact Page styles  */
+.general-info {
+  font-size: 1.5em;
+  color: black; }
+
 /* Video EMBed responsive code */
 .responsive-vid {
   position: relative;
