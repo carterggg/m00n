@@ -9,9 +9,6 @@
 					<input type="email" id="email" name="email" value="<?php echo @$email ?>" class="email required" required/>
 				</p>
 				<p>
-				<img src="images/contact-mobile-m00n.png" alt="m00n clothing" class="img-responsive align-center hidden-sm hidden-md hidden-lg">
-				</p>
-				<p>
 					<label for="message">Message:</label><?php echo @$message_error; ?>
 					<textarea cols="45" rows="7" id="message" name="message" class="required" required><?php echo @$message ?></textarea>
 				</p>

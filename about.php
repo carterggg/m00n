@@ -85,7 +85,7 @@
 		<div class="col-sm-1 hidden-xs"></div>
 			<div class="col-sm-2 hidden-xs"></div>
 				<div class="col-sm-6 col-xs-12">
-					<h1 class="product-h1">m00n Clothing:</h1>
+					<h1 class="product-h1">About m00n:</h1>
 						<br>
 				</div>
 			<div class="col-sm-2 hidden-xs"></div>
@@ -97,7 +97,9 @@
 	<div class="row">
 		<div class="hidden-xs col-sm-1"></div>
 			<div class="col-xs-12 col-sm-10">
-				<img src="images/onlypm.gif" alt="m00n recycled skateboard jewelry" class="img-responsive align-center about-style">
+			<br>
+				<img src="images/aboutpage-m00n.png" alt="m00n recycled skateboard jewelry" class="img-responsive align-center about-style">
+				
 			</div>
 		<div class="hidden-xs col-sm-1"></div>
 	</div>

@@ -96,13 +96,21 @@
 <!-- Fourth row -->		
 	<div class="row">
 		<div class="col-sm-1 hidden-xs"></div>
-			<div class="col-sm-2 hidden-xs"></div>
-				<div class="col-sm-6 col-xs-12">
+			<div class="col-sm-1 hidden-xs"></div>
+				<div class="hidden-sm hidden-md hidden-lg col-xs-12">
 					<br class="hidden-sm hidden-md hidden-lg">
 					<h1 class="product-h1">MAKE CONTACT</h1>
+						<br class="hidden-sm hidden-md hidden-lg">
+						<img src="images/contact-mobile-m00n.png" alt="m00n clothing" class="img-responsive align-center hidden-sm hidden-md hidden-lg">
 					<br class="hidden-xs">
 				</div>
-			<div class="col-sm-2 hidden-xs"></div>
+					<div class="row align-center">
+						<div class="hidden-xs col-sm-8">
+							<img src="images/contact-m00n2.png" alt="m00n clothing" class="img-responsive align-center">
+							<br>
+						</div>
+					</div>
+			<div class="col-sm-1 hidden-xs"></div>
 		<div class="col-sm-1 hidden-xs"></div>
 	</div>
 	
@@ -110,31 +118,25 @@
 <!--Contact Info -->
 	<div class="row">
 		<div class="hidden-xs col-sm-1"></div>
-			<div class="hidden-xs col-sm-1"></div>
+			<div class="hidden-xs col-sm-1">
+				<br><br><br><br><br><br>
+				<a href="#" title="m00n facebook"><img src="images/fb4.png" onmouseover="this.src='images/fb5.png'" onmouseout="this.src='images/fb4.png'" alt="m00n clothing" class="img-responsive align-center"></a>
+			</div>
 				<div class="col-xs-12 col-sm-8">
-				<div class="row align-center">
-			<div class="hidden-xs col-sm-4">
-			<br><br><br><br><br>
-				<img src="images/fb4.png" onmouseover="this.src='images/fb5.png'" onmouseout="this.src='images/fb4.png'" alt="m00n clothing" class="img-responsive align-center">
-			</div>
-			<div class="hidden-xs col-sm-4">
-				<img src="images/contact-m00n.png" alt="m00n clothing" class="img-responsive align-center">
-			</div>
-			<div class="hidden-xs col-sm-4">
-			<br><br><br><br><br>
-				<img src="images/ig3.png" onmouseover="this.src='images/ig4.png'" onmouseout="this.src='images/ig3.png'" alt="m00n clothing" class="img-responsive align-center">
-			</div>
-		</div>
-					
 					  <br>
 						<!--- contact form -->
 						<?php include('inc/form.php'); ?>
-				
+						
+								
+									
 				</div>
-			<div class="hidden-xs col-sm-1"></div>
+			<div class="hidden-xs col-sm-1">
+				<br><br><br><br><br><br>
+					<a href="http://instagram.com/m00nclothing" title="m00n instagram"><img src="images/ig3.png" onmouseover="this.src='images/ig4.png'" onmouseout="this.src='images/ig3.png'" alt="m00n clothing" class="img-responsive align-center"></a>
+			</div>
 		<div class="hidden-xs col-sm-1"></div>
 	</div>
-	<br>
+	<br class="hidden-xs">
 	
 <!-- HR Row -->
 	

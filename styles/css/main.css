@@ -292,11 +292,14 @@ input, textarea {
   display: block;
   margin-bottom: 15px;
   width: 100%;
-  border: black solid 3px; }
+  border: black solid 3px;
+  font-size: 2em;
+  color: black;
+  background-color: white; }
 
 label {
   margin-bottom: 0px;
-  font-size: 1.3em; }
+  font-size: 1.5em; }
 
 .error {
   color: white; }
