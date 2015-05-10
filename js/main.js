@@ -7,11 +7,10 @@ $(".toggle").click(function () {
 
 
 // Toggle for Contact Page 
-/* 
 $(".toggle-nav").click(function () {
 	$(".toggle-info").slideToggle("slow");
 });
-*/
+
 
 /* 
 $(document).ready(function(){

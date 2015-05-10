@@ -62,6 +62,7 @@
    					<?php include('inc/mobilenav.inc.php'); ?>
    				</ul>
    			</nav>
+   			<br><br>
    			
    						<a href="index.html" alt="m00n clothing"><img src="images/logo/logo.png" alt="m00n" class="img-responsive"></a>
    							<br class="hidden-sm hidden-md hidden-lg">

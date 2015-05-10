@@ -42,13 +42,14 @@
    <!-- Mobile Nav Bar -->
    <div class="row">
    		<div class="col-xs-12 hidden-sm hidden-md hidden-lg">
-  	  			<img src="images/menu-icon2.png" onmouseover="this.src='images/menu-icon.png'" onmouseout="this.src='images/menu-icon2.png'" class="toggle" width="55px" align="right">
+  	  			<img src="images/menu-icon2.png" class="toggle" width="55px" align="right" alt="m00n">
   	  	
-   			<nav class="mobile-nav">
+   			<nav class="mobile-nav toggle-info">
    				<ul> <br><br><br>
    					<?php include('inc/mobilenav.inc.php'); ?>
    				</ul>
    			</nav>
+   			<br><br>
    			
    						<a href="index.html" alt="m00n clothing"><img src="images/logo/logo.png" alt="m00n" class="img-responsive"></a>
    							<br class="hidden-sm hidden-md hidden-lg">
